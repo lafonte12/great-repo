@@ -2,3 +2,4 @@ Great Repo
 - Difokuskan untuk Tugas Akhir
 - Selain ini juga digunakan untuk project-project lepas
 - Selain itu saya mempersilahkan untuk teman saya untuk berkolaborasi di dalam repo ini
+- Semoga bermanfaat
